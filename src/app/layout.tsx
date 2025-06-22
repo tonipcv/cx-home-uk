@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Cxlus - How Premium Clinics Transform Single Visits Into Lifelong Value',
+  title: 'Cxlus - Request Strategic Analysis',
   description: 'Discover how leading healthcare providers transform initial consultations into enduring patient relationships through digital innovation and personalized care journeys.',
   keywords: ['CXLUS', 'customer experience', 'medical clinics', 'digital platform', 'customer service'],
   authors: [{ name: 'CXLUS' }],
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: 'Cxlus - How Premium Clinics Transform Single Visits Into Lifelong Value',
+    title: 'Cxlus - Request Strategic Analysis',
     description: 'Discover how leading healthcare providers transform initial consultations into enduring patient relationships through digital innovation and personalized care journeys.',
     url: 'https://cxlus.com',
     siteName: 'CXLUS',
